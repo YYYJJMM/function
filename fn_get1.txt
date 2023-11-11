@@ -1,1 +1,4 @@
 --fn_get1
+--github 직접 수정
+create function as ....
+end;
